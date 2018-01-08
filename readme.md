@@ -1,7 +1,7 @@
 # Fork of [PyLepton](https://github.com/groupgets/pylepton/tree/f482f13c5b96f479db6c1323a77c6ae6c0cc8ec1) for use with [Lepton3](https://groupgets.com/manufacturers/flir/products/lepton-3-0)
 
 Based on [groupgets/pylepton/tree/lepton3](https://github.com/groupgets/pylepton/tree/f482f13c5b96f479db6c1323a77c6ae6c0cc8ec1). 
-Simplified to allow inclusion in a python project via ```git clone https://github.com/RaymondKirk/pylepton.git --depth 1``` and ```from pylepton.Lepton3 import Lepton 3```.
+Simplified to allow inclusion in a python project via ```git clone https://github.com/RaymondKirk/pylepton.git --depth 1``` and ```from pylepton.Lepton3 import Lepton3```.
 
 
 Start of original README.md
